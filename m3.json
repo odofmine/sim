@@ -1,14 +1,14 @@
 {
   "btc/usd": {
-    "datetime": "2021-06-29 00:00:00",
-    "timestamp": 1624924800,
-    "leverage": 0.015,
-    "pnt": 0.25
+    "datetime": "2021-06-30 00:00:00",
+    "timestamp": 1625011200,
+    "pnt": 0.1573,
+    "leverage": 1.1471
   },
   "eth/usd": {
-    "datetime": "2021-06-29 00:00:00",
-    "timestamp": 1624924800,
-    "leverage": 0.015,
-    "pnt": 0.15
+    "datetime": "2021-06-30 00:00:00",
+    "timestamp": 1625011200,
+    "pnt": 0.1366,
+    "leverage": -1.1994
   }
 }
