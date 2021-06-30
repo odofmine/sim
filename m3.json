@@ -1,0 +1,12 @@
+{
+  "btc/usd": {
+    "datetime": "",
+    "timestamp": 1624924800,
+    "leverage": 0.015
+  },
+  "eth/usd": {
+    "datetime": "",
+    "timestamp": 1624924800,
+    "leverage": 0.015
+  }
+}
