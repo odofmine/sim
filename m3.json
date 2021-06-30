@@ -1,11 +1,11 @@
 {
-  "btc/usd": {
+  "btcusd": {
     "datetime": "2021-06-30 00:00:00",
     "timestamp": 1625011200,
     "pnt": 0.1573,
     "leverage": 1.1471
   },
-  "eth/usd": {
+  "ethusd": {
     "datetime": "2021-06-30 00:00:00",
     "timestamp": 1625011200,
     "pnt": 0.1366,
