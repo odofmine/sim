@@ -1,8 +1,8 @@
 {
   "btcusd": {
-    "datetime": "2021-07-23 00:00:00",
-    "timestamp": 1626998400,
-    "pnt": 0.099,
-    "leverage": 0.105
+    "datetime": "2021-07-24 00:00:00",
+    "timestamp": 1627084800,
+    "pnt": 1.0,
+    "leverage": 0.114
   }
 }
