@@ -1,14 +1,14 @@
 {
   "btcusd": {
-    "datetime": "2021-10-08 00:00:00",
-    "timestamp": 1633651200,
+    "datetime": "2021-10-09 00:00:00",
+    "timestamp": 1633737600,
     "pnt": 0.29,
-    "leverage": 0.2056
+    "leverage": 0.2562
   },
   "ethusd": {
-    "datetime": "2021-10-08 00:00:00",
-    "timestamp": 1633651200,
+    "datetime": "2021-10-09 00:00:00",
+    "timestamp": 1633737600,
     "pnt": 0.28,
-    "leverage": 0.5306
+    "leverage": 0.5542
   }
 }
